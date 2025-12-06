@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Planetary",
+  "base_artist": "Penthouse",
+  "createdAt": "2025-12-06T03:56:08.265523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Storm Of Swords (ft. Planetary)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/01_A_Storm_Of_Swords_(ft._Planetary)_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Against I ft. Planetary Of Outerspace",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/02_I_Against_I_ft._Planetary_Of_Outerspace_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zdarlight \u0000 I Want I Want (Live @ The Bunker) \u0000 Jupiter Room (Planetary Lobby Version)",
+      "artist": "Digitalism",
+      "has_synced": true,
+      "path": "select/03_Zdarlight_\u0000_I_Want_I_Want_(Live_@_The_Bunker)_\u0000_Jupiter_Room_(Planetary_Lobby_Ve_Digitalism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Planetary Black Elements",
+      "artist": "The Kovenant",
+      "has_synced": true,
+      "path": "select/04_Planetary_Black_Elements_The_Kovenant.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Planetary Misfortune",
+      "artist": "Amorphis",
+      "has_synced": true,
+      "path": "select/05_Planetary_Misfortune_Amorphis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Against I (feat. Planetary Of OuterSpace)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/06_I_Against_I_(feat._Planetary_Of_OuterSpace)_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Planetary [GO!] - Lags Gallows Remix",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/07_Planetary_[GO!]_-_Lags_Gallows_Remix_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Planetary [GO!] - Vasquez/Gorman Remix",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/08_Planetary_[GO!]_-_Vasquez_Gorman_Remix_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Planetary (GO!) (Vazquez\u0000Gorman Remix)",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/09_Planetary_(GO!)_(Vazquez\u0000Gorman_Remix)_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Planetary (GO!)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/10_Planetary_(GO!)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Planetary (GO!) [Explicit]",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/11_Planetary_(GO!)_[Explicit]_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Planetary (GO!) [Lags Gallows Remix]",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/12_Planetary_(GO!)_[Lags_Gallows_Remix]_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Planetary (GO!) [Lags Gallows Remix]",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/13_Planetary_(GO!)_[Lags_Gallows_Remix]_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Planetary (GO!) [Vasquez\u0000Gorman Remix]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/14_Planetary_(GO!)_[Vasquez\u0000Gorman_Remix]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Planetary (GO!)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/15_Planetary_(GO!)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Planetary Mirror",
+      "artist": "Boombox",
+      "has_synced": false,
+      "path": "select/16_Planetary_Mirror_Boombox.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Planetary Discipline",
+      "artist": "Psycroptic",
+      "has_synced": false,
+      "path": "select/17_A_Planetary_Discipline_Psycroptic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Planetary",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_Planetary_Penthouse.txt"
+    }
+  ]
+}
