@@ -1,0 +1,121 @@
+# Penthouse – Planetary
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.13] "Planetary (GO!)"
+[00:09.63] 
+[00:01.84] There might be something outside your window
+[00:04.46] But you just never know
+[00:08.17] There could be something right past the turnpike gates
+[00:11.79] But you'll just never know
+[00:24.79] 
+[00:15.78] If my velocity starts to make you sweat,
+[00:19.42] Then just don't let go
+[00:22.72] And if their Heaven ain't got a vacancy
+[00:26.38] Then we just, then we just, then we just
+[00:28.28] Then we just get up and go!
+[00:41.78] 
+[00:45.40] Ladies and gentlemen:
+[00:46.60] Truth is now acceptable
+[00:48.46] Fame is now injectable
+[00:49.93] Process the progress
+[00:51.96] This core is critical
+[00:53.72] Faith is unavailable
+[00:55.35] Lives become incredible
+[00:57.35] Now, please understand that,
+[01:11.35] 
+[00:59.88] I can't slow down
+[01:01.57] I won't be waiting for you
+[01:03.36] I can't stop now
+[01:05.28] Because I'm dancing
+[01:06.96] This planet's ours to defend
+[01:09.33] Ain't got no time to pretend
+[01:10.51] Don't fuck around,
+[01:12.55] This is our last chance
+[01:24.05] 
+[01:14.05] If my velocity starts to make you sweat
+[01:17.08] Then just don't let go
+[01:20.75] 'Cause the emergency room got no vacancy
+[01:24.49] And we just, and we just, and we just
+[01:26.92] And we just get up and go!
+[01:39.92] 
+[01:43.58] (Who) they want you to be
+[01:44.93] (Who) they wanted to see
+[01:46.88] (Go) kill the party with me
+[01:48.75] And never go home
+[01:50.73] (Who) they want you to be
+[01:52.37] (Who) they wanted to see
+[01:54.17] Just leave the party with me, and never go home
+[02:17.67] 
+[02:44.25] You're unbelievable
+[02:44.56] Ah, so unbelievable
+[02:44.76] Ah, you ruin everything
+[02:45.05] Oh, you better go home
+[02:45.26] I'm unbelievable
+[02:45.52] Yeah, I'm undefeatable
+[02:46.09] Yeah, let's ruin everything,
+[02:46.33] Blast it to the back row
+[02:58.33] 
+[02:46.55] They sell presentable
+[02:46.74] Young, and so ingestible
+[02:46.98] Sterile and collectible
+[02:47.13] Safe, and I can't stand it
+[02:47.42] This is a letter my word
+[02:47.64] Is the berretta
+[02:47.80] The sound of my vendetta
+[02:48.18] Against the ones who planned it
+[03:03.68] 
+[02:48.47] If my velocity starts to make you sweat
+[02:51.32] Then just don't let go
+[02:51.63] 'Cause the emergency room got no vacancy
+[02:54.02] Tell me who do you trust,
+[02:55.01] Do you trust
+[02:55.69] And we just
+[03:15.71] Get up and go!
+[03:22.71] 
+[03:16.73] (Who) they want you to be
+[03:17.17] (Who) they wanted to see
+[03:17.35] (Go) kill the party with me
+[03:17.72] And never go home
+[03:18.02] (Who) they want you to be
+[03:18.38] (Who) they wanted to see
+[03:18.59] Just leave the party with me, and never go home
+[03:42.09] 
+[03:18.70] You keep eternity,
+[03:18.93] Give us the radio
+[03:19.16] Deploy the battery,
+[03:19.36] We're taking back control
+[03:19.69] Engage the energy,
+[03:19.82] Light up the effigy
+[03:20.08] No chance to take it slow,
+[03:20.28] By now I'm sure you
+[03:20.46] Know, know, know, know, know, know
+[03:20.63] (1, 2, 3, go!)
+[03:20.83] Get up and go!
+[03:27.83] 
+[03:21.04] (Who) they want you to be
+[03:21.27] (Who) they wanted to see
+[03:21.45] (Go) kill the party with me
+[03:21.69] And never go home
+[03:21.88] (Who) they want you to be
+[03:22.03] (Who) they wanted to see
+[03:22.26] Just leave the party with me, and never go home
+[03:45.76] 
+[03:22.40] Are we still having fun?
+[03:22.67] Are you holding the gun?
+[03:22.88] Take the money and run
+[03:23.01] We'll never go home
+[03:32.51] 
+[03:23.37] I've got nothing to lose
+[03:23.40] You've got nothing to say
+[03:23.75] And we're leaving today
+[03:23.84] We'll never go home
+[03:33.34] 
+[03:24.05] I think I'm gonna go now
+[03:24.27] I think I'm gonna go now
+[03:24.47] I think I better go now
+[03:24.64] Gonna go now, gonna go now, gonna go now, gonna go now
+[03:24.77] Go now, gonna go now
+[03:24.97] Go home
+```
